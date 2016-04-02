@@ -37,6 +37,9 @@ function swapPhoto() {
 	//Access the img element and replace its source
 	//with a new image from your images array which is loaded 
 	//from the JSON string
+	$('#slideShow').click(function(){
+		$('.img').text(galleryImage.next());
+	}
 	console.log('swap photo');
 }
 
@@ -44,6 +47,7 @@ function swapPhoto() {
 var mCurrentIndex = 0;
 
 // XMLHttpRequest variable
+var mURL = "images.json";
 var mRequest = new XMLHttpRequest();
 mRequest.onreadystatechange = function() {
       // Do something interesting if file is opened successfully
