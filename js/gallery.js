@@ -39,7 +39,7 @@ function swapPhoto() {
 	//from the JSON string
 	$('#slideShow').click(function(){
 		$('.img').text(galleryImage.next());
-	}
+	});
 	console.log('swap photo');
 }
 
@@ -109,3 +109,15 @@ function GalleryImage(location, description, date, img) {
 	this.date = new date;
 	this.img = new img;
 }
+
+$('img.moreIndicator').click(function(){
+	if (this.hasClass("rot90")){
+		this.add("rot270").remove("rot90");}
+	else if (this.hasClass("rot270"){
+		this.add("rot90").remove("rot270");}
+	else{}
+	$('div.details').fadeToggle("fast", function(){
+		$('img.moreIndicator').slideUp();
+	});
+	
+	});
