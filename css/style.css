@@ -30,7 +30,9 @@ body {
 	position: absolute;
 	z-index: 3;
 	opacity: .8;
-	top: 0px;
+	
+	right: 300px;
+	bottom: 0px;
 }
 
 .thumbnail {
@@ -57,6 +59,8 @@ body {
 #nextPhoto {
 	height: 42px;
 	width: 42px;
+	position: absolute;
+	right: 0px;
 }
 
 .details p {
