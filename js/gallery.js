@@ -57,8 +57,8 @@ mRequest.onreadystatechange = function() {
                console.log(err.message);
 } }
 };
-mRequest.open("GET",mURL, true);
-mRequest.send();
+//mRequest.open("GET",mURL, true);
+//mRequest.send();
 
 
 // Array holding GalleryImage objects (see below).
