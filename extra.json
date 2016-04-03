@@ -6,8 +6,30 @@
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
-	{
-	}
-	]
+        {
+            "imgPath": "img/places/switzerland.jpg",
+            "imgLocation": "Switzerland",
+            "description": "Lake castle",
+            "date": "01/11/2016"
+        },
+        {
+            "imgPath": "img/places/thailand.jpg",
+            "imgLocation": "Thailand",
+            "description": "Beachline",
+            "date": "01/12/2016"
+        },
+        {
+            "imgPath": "img/places/turkey.jpg",
+            "imgLocation": "Turkey",
+            "description": "Istanbul",
+            "date": "01/13/2016"
+        },
+        {
+            "imgPath": "img/places/turkey.jpg",
+            "imgLocation": "Turkey",
+            "description": "Istanbul",
+            "date": "01/13/2016"
+        }
+  ]
 }
 
