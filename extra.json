@@ -1,33 +1,33 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
+            "imgPath": "img/places/nyc.jpg",
+            "imgLocation": "New York City, NY",
+            "description": "South Street Seaport",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
+            "imgPath": "img/places/nj.jpg",
+            "imgLocation": "New Jersey",
+            "description": "Palisades",
             "date": "01/11/2016"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
+            "imgPath": "img/places/pa.jpg",
+            "imgLocation": "Philidephia, PA",
+            "description": "Society Hill",
             "date": "01/12/2016"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
+            "imgPath": "img/places/ct.jpg",
+            "imgLocation": "Westport, CT",
+            "description": "Minuteman Lookout",
             "date": "01/13/2016"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
+            "imgPath": "img/places/de.jpg",
+            "imgLocation": "Delaware",
+            "description": "Delaware River Gap",
             "date": "01/13/2016"
         }
   ]
